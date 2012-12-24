@@ -1,4 +1,4 @@
-package com.jackwilsdon.crypto;
+package com.jackwilsdon.cryptographer;
 
 import java.util.Locale;
 
